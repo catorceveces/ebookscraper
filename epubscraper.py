@@ -42,7 +42,7 @@ for book in new_books:
 
 f.close()
 
-# check if the book in the temporary database is alredy exist on the permanent database
+# check if the book in the temporary database is already exists on the permanent database
 # if exists, no action; if it not, publish as tweet and adding to the permanent database
 
 with open('minidb.csv', 'r', encoding='utf-8') as check:
