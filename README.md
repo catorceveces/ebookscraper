@@ -17,7 +17,7 @@ It works on Python 3.X and uses the following libraries:
 
 ### Setup
 
-Since I don't have any service of cloud hosting, in order to automatically and regularly execute it, I use Workflows for iOS working with Pythonista 3. So the script launches in the background with no user intervention.
+Working on a Raspberry Pi.
 
 ### Contact
 
